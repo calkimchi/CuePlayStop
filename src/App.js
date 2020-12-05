@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import Cueplaystop from './Cueplaystop.js';
+import Cueplaystop from './CuePlayStop.js';
 
 function App() {
   return (
     <div className="App">
+      
       <Cueplaystop/>
       
       <header className="App-header">

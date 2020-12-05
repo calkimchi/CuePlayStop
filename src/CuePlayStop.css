@@ -1,0 +1,8 @@
+.cueGlow{
+    transition: opacity 0.2s;
+    opacity: 1;
+}
+.cueGlow.hide{
+    opacity: 0;
+    pointer-events:none;
+}
